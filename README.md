@@ -93,12 +93,22 @@ IoT 개발자과정 빅데이터분선 및 AI 학습 리포지토리
 
 ## 4일차
 - 머신러닝, 딥러닝
-    - [개념]()
-    - [파이토치기본]()
-    - [회귀분석]()
-    - [...]()
+    - 인공지능 개념 학습
+    - 파이토치 기본설명과 CPU/GPU 라이브러리 설치
+    - [개념](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day4/dba08_ml_dl_concept.ipynb)
+    - [파이토치개요및설치](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day4/dba09_pytorch_start.ipynb)
 
 ## 5일차
+- 머신러닝, 딥러닝
+    - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Language Processing) ...
+    - [파이토치기본](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba10_pytorch_basic.ipynb)
+    - 타이타닉 생존자 예측
+    - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
+
+## 5일차
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 예측(계속)
+
 
 ## 6일차
 
@@ -107,3 +117,17 @@ IoT 개발자과정 빅데이터분선 및 AI 학습 리포지토리
 ## 8일차
 
 ## 9일차
+
+## Furthur
+1. 기초
+    1. 역전파
+    2. 데이터로더
+2. 지도학습
+    1. 그 외 회귀
+    2. 다층 신경망
+    3. 합성곱 신경망
+3. 비지도학습
+    1. 오토인코더
+    2. K평균
+4. 시각화
+5. 성능향상
