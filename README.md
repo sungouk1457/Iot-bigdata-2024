@@ -107,15 +107,26 @@ IoT 개발자과정 빅데이터분선 및 AI 학습 리포지토리
 
 ## 5일차
 - 머신러닝, 딥러닝
-    - 타이타닉 생존자 예측(계속)
-
+    - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Language Processing) ...
+    - [파이토치기본](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba10_pytorch_basic.ipynb)
+    - 타이타닉 생존자 예측
+    - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
 ## 6일차
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 예측(계속)
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
+    - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
 ## 7일차
+- 머신러닝, 딥러닝
+    - CNN(Convolutional NN) 
+    - 이미지 분류
 
 ## 8일차
-
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, Yolov8
 ## 9일차
 
 ## Furthur
