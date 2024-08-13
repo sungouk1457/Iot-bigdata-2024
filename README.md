@@ -128,6 +128,8 @@ IoT 개발자과정 빅데이터분선 및 AI 학습 리포지토리
     - 객체탐지(Object Detection)
     - OpenCV, Yolov8
 ## 9일차
+- 머신러닝, 딥러닝 개인클로닝
+    - 예제 리포지토리, Cloning
 
 ## Furthur
 1. 기초
